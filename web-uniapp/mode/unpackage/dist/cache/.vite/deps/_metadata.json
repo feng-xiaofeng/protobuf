@@ -1,0 +1,25 @@
+{
+  "hash": "4382fbef",
+  "configHash": "751b9e81",
+  "lockfileHash": "45b1d219",
+  "browserHash": "2d94a6f2",
+  "optimized": {
+    "base64-arraybuffer": {
+      "src": "../../../../../node_modules/base64-arraybuffer/dist/base64-arraybuffer.es5.js",
+      "file": "base64-arraybuffer.js",
+      "fileHash": "b99f94ba",
+      "needsInterop": false
+    },
+    "protobufjs/minimal": {
+      "src": "../../../../../node_modules/protobufjs/minimal.js",
+      "file": "protobufjs_minimal.js",
+      "fileHash": "acf73731",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-Y2F7D3TJ": {
+      "file": "chunk-Y2F7D3TJ.js"
+    }
+  }
+}

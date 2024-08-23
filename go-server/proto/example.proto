@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option go_package = "./service";
+
+// 定义消息
+// protoc --go_out=. example.proto
+// protoc --go_out=plugins=grpc:. *.proto
+message User {
+  int32 id = 1;
+  string name = 2;
+}
